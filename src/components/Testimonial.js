@@ -38,7 +38,7 @@ const Testimonial = (props) => {
 
 
   return (
-    <div>
+    <div className="w-[85vw] md:w-[700px] bg-white flex flex-col justify-center items-center mt-10 p-10">
         <Card review = {reviews[index]} />
         <div>
 

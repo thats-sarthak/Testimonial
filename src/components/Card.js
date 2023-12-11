@@ -16,11 +16,10 @@ const Card = (props) => {
 
         <div className="text-center mt-7">
             <p className="font-bold text-2xl capitalize">{review.name}</p>
-        </div>
-
-        <div className="text-center mt-7">
             <p className="text-violet-300 uppercase text-sm">{review.job}</p>
         </div>
+
+         
 
         <div>
             <p className="text-violet-400 mx-auto mt-5 font-bold text-2xl"> " </p>
