@@ -22,7 +22,7 @@ const Card = (props) => {
          
 
         <div>
-            <p className="text-violet-400 mx-auto mt-5 font-bold text-2xl"> " </p>
+            <p className="text-violet-400 mx-auto mt-6 font-bold text-2xl"> " </p>
         </div>
 
         <div className="text-center mt-4 text-slate-500 ">
